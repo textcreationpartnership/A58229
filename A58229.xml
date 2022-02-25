@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for a general indefinite speedy act of oblivion</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58229</idno>
+            <idno type="STC">Wing R482A</idno>
+            <idno type="STC">ESTC R14429</idno>
+            <idno type="EEBO-CITATION">12648723</idno>
+            <idno type="OCLC">ocm 12648723</idno>
+            <idno type="VID">65246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 775:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for a general indefinite speedy act of oblivion</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randall Taylor ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65246:1"/>
+            <head>REASONS <hi>for a General Indefinite ſpeedy <hi>Act of Oblivion.</hi>
+               </hi>
+            </head>
+            <p>THO ſome may fret, and huff, and bounce at every thing that's paſt; as if all their Madneſs and Rage were founded on a true baſis, yet it is apparent from Rea<g ref="char:EOLhyphen"/>ſon and Truth; and the Firſt and Second <hi>Vidica<g ref="char:EOLhyphen"/>tion of the Magiſtracy and Government of</hi> England, hath made clear, that their Foundation is falſe, and the Law is direct and plain in their teeth, and doth and will juſtifie in moſt of the particulars, at which they foam their Curſes and Execrations: Reaſon therefore as well as neceſſity enjoins a ſi<g ref="char:EOLhyphen"/>lence as to what is paſt, for otherwiſe the King<g ref="char:EOLhyphen"/>dom can never have its deſired ſatisfaction, for in points juſtifiable or at leaſt doubtful, the juſtice of inflicting Puniſhments can never be vindicated: did I call them Puniſhments, I beg the Readers pardon for the Impropriety, however I'll not name their proper term, but with calmneſs, en<g ref="char:EOLhyphen"/>deavor to Evince three things.</p>
+            <p n="1">1. That it would be grateful to the Nation in general, and every good Man in particular. 2. Con<g ref="char:EOLhyphen"/>ducing to the Settlement and Intereſt of the pre<g ref="char:EOLhyphen"/>ſent Government; and laſtly, That 'tis conſiſt<g ref="char:EOLhyphen"/>ent with and promotive of the higheſt and trueſt Juſtice.</p>
+            <p>Firſt, The Nation did and doth expect it, for Revenge is never natural but when freſhly purſu<g ref="char:EOLhyphen"/>ed, and time wears off the ſenſe of Injuries, by the Intervention of new ones either real or imaginary, which is all one as to this purpoſe: the horror of any Crime, or at leaſt the deteſtation of the Cri<g ref="char:EOLhyphen"/>minal, grows faint and languid upon the removal of the Object, eſpecially if time interpoſes with the acceſſion of preſent fears, which as preſent do more affect us than greater if more diſtant, whether paſt or future. It can never therefore be thought the de<g ref="char:EOLhyphen"/>ſire of the People of <hi>England</hi> to have their Neigh<g ref="char:EOLhyphen"/>bors or Acquaintance harraſs'd and perſecuted by Fines, Confilcations, Impriſonments, Marks of Diſ<g ref="char:EOLhyphen"/>grace, or the like, for Actions done in the laſt or former Reigns, about which the World hath been ſo much divided, if lawful or not: Beſides, that this was the general Expectation of the Kingdom on the new Settlement or at leaſt the Coronation, of which nature there never was an Inſtance be<g ref="char:EOLhyphen"/>fore this without an Act of Grace; And it is moſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plain, that none are Adverſaries to it, but the <hi>Re<g ref="char:EOLhyphen"/>publicans</hi> and the <hi>Jacobites,</hi> not for that they need it not, as I ſhall ſhew anon, but for different ends each drives at and wiſhes a Change, it matters no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to what, for if to the latter the other hopes a Commonwealth will be the more deſirable: I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Republican</hi> ſucceeds, then the other believe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Reſtoration the more eaſie, but both diſlike the preſent, and therefore dread a Settlement, and con<g ref="char:EOLhyphen"/>ſequently dread the Peoples ſatisfaction and quiet under Their Majeſties, and conſequently dread an Act of Indemnity; 'tis true, the Cry for Ven<g ref="char:EOLhyphen"/>geance is loud, but 'tis only from theſe two cor<g ref="char:EOLhyphen"/>ners; which leads to the ſecond particular, that</p>
+            <p>It will eſtabliſh and promote the Intereſt of the preſent Government; for while the popular Bully is full of his Damme's and Menaces, there's certain<g ref="char:EOLhyphen"/>ly danger, and where there's danger there's fear, now fear cauſes an averſion, and averſion begets hatred: and the Object of it is that from whence the ſuppoſed danger ariſes, which is from the Go<g ref="char:EOLhyphen"/>vernment irritated by the Venom and Fury of thoſe hot-headed Animals, whatſoever hath pow<g ref="char:EOLhyphen"/>er and will to hurt a man, muſt and will be abhor'd by that man: And though none are immediate a<g ref="char:EOLhyphen"/>ctual Patients, yet the being poſſibly obnoxious to it, and the want of ſecurity for the contrary doth of neceſſity cool their reſpect to the preſent Power, under which they are not ſafe; and this tempts them and their Friends upon contrivances and at<g ref="char:EOLhyphen"/>tempts of Danger both to themſelves and the Pub<g ref="char:EOLhyphen"/>lick; and danger by the attempt is no diſcourage<g ref="char:EOLhyphen"/>ment where the like danger attends their forbear<g ref="char:EOLhyphen"/>ance: and this is of weight, unleſs <hi>Cromwell</hi>'s Poli<g ref="char:EOLhyphen"/>ticks be thought Chriſtian, to cheriſh and promote a Plot, as of advantage to Settlement, if ſeaſonably diſcover'd and ſubtilly manag'd; but however 'tis as true, that Enemies who are deſperate ought never to be thought inconſiderable, tho ſo in them<g ref="char:EOLhyphen"/>ſelves; for they may ſhake and batter what they can't deſtroy, they may do miſchief though they can't work ruin to their Adverſaries, upon which account the temptation of continual impending Danger is fit to be removed: Beſides</p>
+            <pb n="2" facs="tcp:65246:2"/>
+            <p>The want of Security, and the fear of Danger, making Men uneaſie in their thoughts, repleniſhes them with Complaints and Murmurs at every awkard Action, or ſuppoſed miſcarriage of the Government feared; it makes them Mutineers at publick Taxes and Impoſitions, partly becauſe they think it ſtrengthens and increaſes the power of hurting them, and partly becauſe it ſponges and bleeds them of that, which they fear an oc<g ref="char:EOLhyphen"/>caſion of themſelves to bribe Blackrods, Sergeants at Arms and other Goalers with; and in a con<g ref="char:EOLhyphen"/>juncture when extraordinary Aids are indiſpenſi<g ref="char:EOLhyphen"/>bly requiſite, no temptation to complaint is deſerv<g ref="char:EOLhyphen"/>ing of Countenance; beſides, that it cramps Trade and diſcourages Projects for Publick Good, <hi>&amp;c.</hi> but further, Its the living, not the dead, the happy, contented, and chearful, and free, not the oppreſſed, miſerable, forlorn, or impriſoned Subject, that doth Service to the Crown and the Publick.</p>
+            <p>It hinders all ſuch as are thought to be ſo ob<g ref="char:EOLhyphen"/>noxious from any bold Eſſays for the uſe of the pre<g ref="char:EOLhyphen"/>ſent Government, for that if ſucceſs be the atten.+dant of ſuch their attempt, they continue unſafe notwithſtanding; for no man in his Wits will ad<g ref="char:EOLhyphen"/>venture an hazard to ſecure that Authority, which he is not ſure will make him ſafe, if he doth under<g ref="char:EOLhyphen"/>take the preſent Adventure, and eſcapes that dan<g ref="char:EOLhyphen"/>ger, and performs the Service; ſo that Self-preſer<g ref="char:EOLhyphen"/>vation renders it their Policy to unhinge themſelves from, or to ſhy of the preſent Power, of which a conſiderable number might prove uſeful Friends; whice are now Newters at leaſt, if not Enemies.</p>
+            <p>Its obſervable in all foreign Policies either to work a total Extirpation of the whole Party, or an univerſal Indemnity after ſo grand a Revolution as this was: the former is not to be practis'd here for two Reaſons, 1. Becauſe we want People and can ſpare none. 2. Many of our Friends muſt be ba<g ref="char:EOLhyphen"/>niſh'd too; for divers of the ſuppoſed Criminals were inſtrumental to the preſent Change, <hi>&amp;c. Ergo,</hi> the latter only is and can be moſt adviſeable: for once I'll ſuppoſe their numbers but ſmall in compariſon to the Saints and Innocents, (if any ſuch there are in the Nation) yet under our preſent Circumſtances all are to be oblig'd as Friends that poſſibly may; but if the thirteen Heads, with the Surrenderers Clauſe, and all its and their Subdivi<g ref="char:EOLhyphen"/>ſions had been reduced into a Law in the deſigned Act of Attainder, one third at leaſt of the Nation had been involved, who with their diſobliged Re<g ref="char:EOLhyphen"/>latives and Dependants are not ſo contemptible a Flock, tho but of Sheep for the ſlaughter: Beſides</p>
+            <p>It's impolitick as well as unjuſt to deny or de<g ref="char:EOLhyphen"/>lay it to thoſe who have ſubmitted to the Go<g ref="char:EOLhyphen"/>vernment, yielded it Obedience, and quietly bore its publick Charges according to their Proportion and yet give a free, full and general Pardon both in <hi>Scotland</hi> and <hi>Ireland,</hi> to all that took up Arms, for all their Sins then paſt and preſent, upon their re<g ref="char:EOLhyphen"/>turn to Quiet and Peace; it provokes the former to repent their non-concurrence with the latter; for 'twas but reſuming their Quiet and Submiſ<g ref="char:EOLhyphen"/>ſion at pleaſure, and then they were ſafe, which now they are not, but under continued Menaces and Dangers both, as appears in their being baited by every barking Cur, that can but write with Gall in his Ink, or ſpeak with a Damme in his Mouth.</p>
+            <p>Experience further tells us, that nothing turns or changes the humor of the <hi>Engliſh</hi> Commoner, like Rage, Inſolence, and Cruelty in their fellow-Subjects, when made Superiors, and ſuch is raking into old Sores thought to be; it matters not whe<g ref="char:EOLhyphen"/>ther juſtly or no to this purpoſe, the effect is general<g ref="char:EOLhyphen"/>ly ſuch: The Star-Chamber in <hi>Car.</hi> 1. his time, the Major-General in <hi>Cromwell</hi>'s time; The Topha<g ref="char:EOLhyphen"/>mizing of Abhorrers in <hi>Car.</hi> 2. his time; The We<g ref="char:EOLhyphen"/>ſtern Campain, and the other criminal Proſecu<g ref="char:EOLhyphen"/>tions in the beginning of <hi>Jac.</hi> 1. I ſay all the Vio<g ref="char:EOLhyphen"/>lences, uſed in theſe ſeveral periods (and yet they had their reſpective Provocations) did moſt noto<g ref="char:EOLhyphen"/>riouſly alter the Kidney of the Commons, and made even their once beloved, firſt dreadful and terrible, then odious and loathſom, they produced conſi<g ref="char:EOLhyphen"/>derable Changes in their ſeveral Conſequences. I could come nearer home even to the tearing of <hi>Moor</hi> and <hi>North,</hi> and other Citizens of <hi>London,</hi> which firſt turn'd the Stomach of that City, as is now apparent, but <hi>Sat verbum, &amp;c.</hi> but further,</p>
+            <p>The want of this, renders both the Policy and Honor of the great Bellowers for Vengeance to be juſtly ſuſpected, 1. Their Honor in taking care of their own Servants for all their Exceſſes upon the Revolution, and oppoſing the Indemnity of all others, as by the Act appears, 2. Their Policy, for that it is obſervable in Story, that the Aſſociation in Queen <hi>Elizab.</hi> time was under a Proteſtant Prince for the Proteſtant Religion, and no ill Suc<g ref="char:EOLhyphen"/>ceſs attended it; yet thoſe wiſe Anceſtors of ours thought fit to ſecure themſelves by turning the Aſſociation into a Law, and a general Act of In<g ref="char:EOLhyphen"/>demnity: I do not ſay they needed it, but the Aſſociators in that Reign thought it needful, <hi>Cam. Eliz.</hi> 300, 309. 27 <hi>Eliz cap.</hi> 30. and 'tis very con<g ref="char:EOLhyphen"/>ſiderable, that in no Reign was there more Peace and Quiet than in hers, and in none were there e<g ref="char:EOLhyphen"/>ver more free and general Pardons, and in truth the latter was the occaſion of the former; for when Men are once ſafe and quiet, no ſmall. Temptati<g ref="char:EOLhyphen"/>on will provoke any more adventures, tho they
+<pb n="3" facs="tcp:65246:2"/>like another better, yet Men being eaſie are ge<g ref="char:EOLhyphen"/>nerally contented: There was one free and gene<g ref="char:EOLhyphen"/>ral Pardon of the Queens at firſt confirmed, 5 <hi>Eliz.</hi> cap. 11. another. 8 <hi>Eliz.</hi> cap. 18. 13 <hi>Eliz.</hi> cap. 28. 18 <hi>Eliz.</hi> cap. 24. 23 <hi>Eliz.</hi> cap. 16. 27 <hi>Eliz.</hi> 13. 29 <hi>Eliz.</hi> cap. 9. 31 <hi>Eliz.</hi> cap. 16. 35 <hi>Eliz.</hi> cap. 14. 39 <hi>Eliz.</hi> cap. 28. 43 <hi>Eliz.</hi> cap. 19. Eleven in number, and never five Years without a Parlia<g ref="char:EOLhyphen"/>ment-Pardon; and this made Parliaments and Crowns the Darlings and Deſire of the People: Beſides, it's the Intereſt of each Party amongſt us, tho ſome don't ſee it: the <hi>Whig</hi> ought to pro<g ref="char:EOLhyphen"/>mote it for two Reaſons; 1. Leſt being the leſſer part he chance to feel the want of it, and for that he has given ſome Provocation: 2. That if he be the greater, the Memory of his Vengeance and Fury may be forgotten. and himſelf reſtored to the good Opinion of the reſt of Mankind, by one Act at leaſt of good Nature: The <hi>Tory</hi> ought to purſue the ſame meaſures, and much for the ſame Reaſons, for his Top-gallantry hath been, and if repractis'd will be again as odious and loathſome to the moderate and good, as ever it was, or as the others could be: Temper there<g ref="char:EOLhyphen"/>fore is now the Game, and a Veil over all that's paſt is certainly the moſt politick, eſpecially con<g ref="char:EOLhyphen"/>ſidering the multitude of the ſuppoſed. Crimi<g ref="char:EOLhyphen"/>nals, and the juſtice of their ſeveral Excuſes, which comes next; for</p>
+            <p>Laſtly, It's conſiſtent with and promotive of the trueſt and higheſt Juſtice, for in moſt of the Caſes the Law was doubtful; and to puniſh Opi<g ref="char:EOLhyphen"/>nion in matters of Law, is as unjuſt as to perſe<g ref="char:EOLhyphen"/>cute Miſtakes in matters of Religion is unchriſti<g ref="char:EOLhyphen"/>an, and new Laws for Government <hi>de futuro,</hi> are more agreeable to natural Equity than a re<g ref="char:EOLhyphen"/>troſpective Fury: that it was ſo doubtful, is plain, the modern Scriblers have ſufficiently pro<g ref="char:EOLhyphen"/>ved it. In two Caſes they differ among them<g ref="char:EOLhyphen"/>ſelves; for Dr. <hi>Story</hi>'s Caſe the Defender cries 'tis not Law, the Remarker agrees 'tis, and that he was well hanged; for <hi>Plunket</hi>'s Caſe the Defender cries he was well hanged, for there was Treaſon enough in his Charge; the Remarker inſinuates as if he ſuffer'd hardly: Now what muſt be believed between theſe two great Bodies of Learning? The like may be ſaid of <hi>Sòames</hi>'s Caſe, and ſome others: but what is more? In the Voluminous Argument againſt the <hi>Diſpenſing Power</hi> the Author doth concede that there are ſome Prerogatives ſo perſonally and inſeparably inherent in the Crown, that no Act of Parliament can cramp or diminiſh it, or at leaſt take away, and that ſome Statutes might be diſpenſed with; and that being granted, I'm ſure all that the reſt of the Book ſays can never make that a plain Caſe; and in truth his own Argument ſhews and leaves it a diſputable Point: and if that were doubtful, every Particular elſe may well be buried in Oblivion; beſides, in Caſes of Conſtruction the nature of the thing admits of doubt, and then there's no colour for Puniſhment.</p>
+            <p>In reſpect of Inferior Perſons, by our Conſti<g ref="char:EOLhyphen"/>tution they are obliged to ſubmit to and follow <hi>Weſtminſter-Hall,</hi> which is the <hi>lex loquens Angliae,</hi> and when all theſe things are duly conſidered, there will remain but few grand execrable Crimi<g ref="char:EOLhyphen"/>nals, who are fit to be made Examples of, only to tickle ſome, aggrieve others, and terrifie none, for that will be the Conſequence, for that's the Caſe of all Violence where the Juſtice of the thing is not clear and undoubted: Then for Exceptions,</p>
+            <p>Let us think a little; Is it reaſonable that ſome ſhould ſuffer for not being afraid of Puniſhments never declared or promulgated, and others ſhall eſcape becauſe their Countenances are more faw<g ref="char:EOLhyphen"/>ning, or that by conſent their Relations have plaid on the other ſide, or that their ſwinging For<g ref="char:EOLhyphen"/>tunes enable them to ſcatter Mice for their per<g ref="char:EOLhyphen"/>ſonal Indemnity, or that they have had the lucky Principle of being faithful to all Changes, and true to nothing elſe, or that they have been for<g ref="char:EOLhyphen"/>ward to ſubvert their old Maſter, after their fire and folly had ruined him and endangered them<g ref="char:EOLhyphen"/>ſelves: Theſe and ſuch like are no Pleas for Ju<g ref="char:EOLhyphen"/>ſticc, and yet this is the Caſe: further,</p>
+            <p>The drift is to magnifie and aggrandize Pu<g ref="char:EOLhyphen"/>niſhments by Bill, which by the ſtanding Laws and common Juſtice of the Realm, could not be inflicted; and they urge two Reaſons for it, 1. Their particular Pardons will otherwiſe excuſe them. To that I anſwer, Either they are valid in Law or not, if not, there's no need of Bills: if they are valid in Law, the ſame Law and Juſtice of the Land enjoyn their Allowance; even the ſame Law by which the Countryman plows his Land, the Gentleman receives his Rent, the Trader recovers his Debt, and the Senator ſits in the Houſe; and by the ſame Reaſon that theſe enjoy their Properties, the Criminal ought to have his Pardon allowed, for one's a Right accrued by the Law as well as the other. 2. The common Channel is too ſmooth: Severity is ſometimes ne<g ref="char:EOLhyphen"/>ceſſary, and that now if ever; and therefore the Legiſlative Authority ought to exert its Power, and puniſh according to Demerit: To anſwer that, I ſay, either they are no Offences by Law, and there needs a Bill to make them ſuch, and inflict Evils upon them as ſuch; or elſe they are Offences but deſerve a greater Puniſhment than a common
+<pb n="4" facs="tcp:65246:3" rendition="simple:additions"/>Court may pronounce<g ref="char:punc">▪</g> now if the firſt be the Caſe, then I'm ſure 'tis rank palpable tyrannical injuſtice, and that's the plague of living under an Arbitrary Power; for none can know what's not Criminal; If they mean the latter, as I ſuppoſe they do, then I ask to what end were Puniſh<g ref="char:EOLhyphen"/>ments invented in Societies, but to reſtrain Men from doing particular actions through the power and influence of Fear; and how could that Con<g ref="char:EOLhyphen"/>ſequence be expected, when the Penalty was ne<g ref="char:EOLhyphen"/>ver known before 'tis inflicted; and to inflict an e<g ref="char:EOLhyphen"/>vil afterwards which was not known before, is to make a Man ſuffer that which he could not fear, becauſe he could not know it, and this becauſe he did not fear it: and the Juſtice of that is plain too.</p>
+            <p>I agree with the Satyriſts that there are ſome Precedents of this laſt method of proceeding, but moſt of them are repealed, I'll name two that are ſo, the Earl of <hi>Strafford</hi>'s, which the very Law it ſelf did enjoin Poſterity not to obſerve, or follow, or do the like; I can't forget one Expreſſion of his to this effect upon the Tryal, if there be an Error in a Judge, ſo that he give a Sentence o<g ref="char:EOLhyphen"/>therwiſe than a Man of better underſtanding con<g ref="char:EOLhyphen"/>ceives Reaſon for, there's no cauſe the offence ſhould be heightned becauſe he was not ſo wiſe a Man as he might have been, nor ſo underſtand<g ref="char:EOLhyphen"/>ing as another, and if that be allowed, it will make it more eligible to follow a Plow than ſerve a Go<g ref="char:EOLhyphen"/>vernment, to dig in a Ditch than bear an Office, for all Men ſtand obnoxious to the Conſtructions and Paſſions of ſucceeding Times: There's one In<g ref="char:EOLhyphen"/>ſtance more, and that was Sir <hi>Thomas Haxey</hi>'s who was attainted of Treaſon for bringing in a Bill into the Commons Houſe againſt the Prero<g ref="char:EOLhyphen"/>gative, though while, and as a Member: I ſup<g ref="char:EOLhyphen"/>poſe the Sparks will not much applaud the juſtice of that Procedure for their own ſakes; but as I ſaid before, that and moſt others of their Prece<g ref="char:EOLhyphen"/>dents were repealed, when a cooler Aſſembly met upon the next Seſſion, and ſo was <hi>Haxey</hi>'s, <hi>Cott. abr. rec.</hi> 362, 393.</p>
+            <p>But if Vengeance be requiſite, it ought to be without reſpect of Perſons, The <hi>Juſtice</hi> of it ought to be <hi>impartial, true</hi> and <hi>Catholick:</hi> and then come in the Penſioners and Surrenderers, the Regulators and Promiſers, the old High Commiſ<g ref="char:EOLhyphen"/>ſioners, and the New Creed makers, <hi>&amp;c.</hi> and God knows <hi>quis non, &amp;c,</hi> Nay ſince the Revolution, ſome more muſt come in for a ſnack of Cenſure too, the buyers and ſellers of Places, the Mem<g ref="char:EOLhyphen"/>bers that took Offices contrary to their own moti<g ref="char:EOLhyphen"/>on and vote in the <hi>Weſtminſter</hi> Parliament: <hi>Cum multis aliis, &amp;c.</hi> To conclude, Our Saviour's Rule if obſerved will be the moſt infallible Indemnity that can be contrived, and that is, <hi>John</hi> 8. <hi>c.</hi> 7. <hi>v. Let him that is without ſin amongſt you, caſt the firſt ſtone.</hi> And in truth a Cenſor of the Manners of others ought himſelf to be pure, clean and in<g ref="char:EOLhyphen"/>nocent, <hi>in omni re quacunque;</hi> and if there be no danger but from ſuch, I'm ſure there's no danger at all, and that it ſhould be ſo, is the trueſt Ju<g ref="char:EOLhyphen"/>ſtice in the World, <hi>quod fuit probandum.</hi>
+            </p>
+            <p>I'll not mention the Argument from the Va<g ref="char:EOLhyphen"/>cancy, that the Government was diſſolved, eve<g ref="char:EOLhyphen"/>ry thing reduced into its primitive ſtate of Na<g ref="char:EOLhyphen"/>ture, all power devolved into individuals, and the particulars only to provide for themſelves by a new Contract, for if ſo, there's yet no new conſent for Puniſhment of acts done before the Diſſolu<g ref="char:EOLhyphen"/>tion, and conſequently Revenge, for that is at an end; Indemnity therefore ought to be pro<g ref="char:EOLhyphen"/>moted by thoſe who made that Vote, for other<g ref="char:EOLhyphen"/>wiſe their truth may be ſuſpected, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Licenſed,</hi> 
+                  <date>April 7. 1690.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>SOme perhaps will blame the boldneſs of this Stile, as provocative rather than palliating; to which I ſay, Truth ought never to be ſhame<g ref="char:EOLhyphen"/>faced, for it will prevail one time or another: and if it do not, but angers ſome, 'twill be only thoſe that were implacale before, who if they ha'nt good Nature enough to pardon a bold Stroke or two with a Pen, they'll never conſent to an Act of Indemnity, and then their Fury is not to be regarded, for the want of it will in<g ref="char:EOLhyphen"/>flame (as it hath created) our preſent Diviſions, and conſequently run us at laſt into a true Con<g ref="char:EOLhyphen"/>fuſion, from which, Good Lords deliver us.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randall Taylor,</hi> near <hi>Stationers-Hall,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
